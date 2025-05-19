@@ -1,0 +1,13 @@
+@import 'base/fonts';
+@import 'base/reset';
+@import 'base/base.scss';
+@import 'components/buttons';
+@import 'components/card';
+@import 'layouts/header';
+@import 'media/media';
+
+
+* {
+    font-family: "Nunito Sans", sans-serif;
+
+}
